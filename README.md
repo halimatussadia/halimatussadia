@@ -11,16 +11,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const sadia = {
   pronouns: "she" | "her",
   code: [PHP,  HTML, CSS, JavaScript, Laravel, Lumen],
+    askMeAbout: ["web dev", "tech", "backend engineer"],
+     technologies: {
+        backEnd:["PHP", "Laravel", "Lumen","Redis"],
+        },
   tools: [Laragon, slack, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+  databases: ["MySql"],
+  architecture: ["microservices","monolith", "design system pattern"],
+  
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
