@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Halima Tus Sadia](https://img.shields.io/twitter/follow/HalimaT82121087?style=social)](https://twitter.com/HalimaT82121087)
-[![Linkedin: Halima Tus Sadia](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halima-tus-sadia-05b822200)](https://www.linkedin.com/in/halima-tus-sadia-05b822200/)
+[![Linkedin: Halima Tus Sadia](https://img.shields.io/badge/-halima-tus-sadia-05b822200-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halima-tus-sadia-05b822200)](https://www.linkedin.com/in/halima-tus-sadia-05b822200/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
