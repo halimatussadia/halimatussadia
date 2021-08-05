@@ -14,7 +14,7 @@
 const thai = {
   pronouns: "she" | "her",
   code: [PHP,  HTML, CSS, JavaScript, Laravel, Lumen],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [Laragon, slack, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
