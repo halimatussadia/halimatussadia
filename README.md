@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="https://www.kodeeo.com/">Kodeeo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: HalimaT82121087](https://img.shields.io/twitter/follow/HalimaT82121087?style=social)](https://twitter.com/HalimaT82121087)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Twitter: Halima Tus Sadia](https://img.shields.io/twitter/follow/HalimaT82121087?style=social)](https://twitter.com/HalimaT82121087)
+[![Linkedin: Halima Tus Sadia](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halima-tus-sadia-05b822200)](https://www.linkedin.com/in/halima-tus-sadia-05b822200/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
