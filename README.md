@@ -16,9 +16,10 @@ Skills: PHP/LARAVEL/LIVEWIRE/VUE JS / INERTIA JS / JS /TAILWIND CSS/ HTML / CSS
 - 📫 How to reach me: halima.sadia245@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/halimatussadia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/halima-tus-sadia-05b822200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/HalimaT82121087)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+[![Twitter: Halima Tus Sadia](https://img.shields.io/twitter/follow/HalimaT82121087?style=social)](https://twitter.com/HalimaT82121087)
+[![Linkedin: Halima Tus Sadia](https://img.shields.io/badge/-halima-tus-sadia-05b822200-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halima-tus-sadia-05b822200)](https://www.linkedin.com/in/halima-tus-sadia-05b822200/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+ 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/halimatussadia)](https://github.com/ryo-ma/github-profile-trophy)
 
