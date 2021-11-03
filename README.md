@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-I have been actively involved in Software Engineer since June 2019. Specifically, I have worked for well known software development companies for almost 3 years and have also been active in self-employed projects. I am passionate about designing and developing backend APIs, databases, microservices with good software development practices and principles.
+I have been actively involved in Software Engineer since June 2019. Specifically, I have worked for well known software development company for almost 3 years and have also been active in self-employed projects. I am passionate about designing and developing backend APIs, databases with good software development practices and principles.
 I love to take new challenges because challenges make me more curious and proactive.
 
 
