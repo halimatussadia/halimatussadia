@@ -1,5 +1,5 @@
 ### Hi there 👋,  I'm Halima Tus Sadia!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-#### Software Enginner at <a href="https://www.kodeeo.com/">Kodeeo<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </em></p>
+#### Software Enginner at <a href="https://dongyi.hk/">Dongyi Sourcing Limited<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </em></p>
 
 
 [![Twitter: Halima Tus Sadia](https://img.shields.io/twitter/follow/HalimaT82121087?style=social)](https://twitter.com/HalimaT82121087)
